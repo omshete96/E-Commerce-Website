@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Running Shoes",
+        "price": 120,
+        "image": "./images/nike-shoes.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Adidas Sweatshirt",
+        "price": 75,
+        "image": "./images/adidas-sweatshirt.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Apple AirPods",
+        "price": 199,
+        "image": "./images/airpods.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sony Headphones",
+        "price": 89,
+        "image": "./images/sony-headphones.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Samsung Galaxy S21",
+        "price": 799,
+        "image": "./images/samsung-galaxy-s21.jpg"
+    }
+]
